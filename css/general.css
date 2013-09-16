@@ -1,0 +1,189 @@
+html {
+	background-image:url(../images/background2.jpg);
+}
+
+body {
+	font-family: Helvetica, sans-serif;
+	padding: 12px;
+	margin: 30px 10px 10px 10px;
+	background-color:#FFF;
+	position: absolute;
+}
+
+@media only screen and (min-width: 20em) {
+
+	body {
+		margin: 0px 10px 10px 17px;
+	}
+}
+
+@media only screen and (min-width: 25em) {
+
+	body {
+		margin: 0px 10px 10px 17px;
+	}
+}
+
+@media only screen and (min-width: 31.25em) {
+
+	body {
+		margin: 0px 10px 10px 60px;
+	}
+}
+
+@media only screen and (min-width: 37.5em) {
+
+	body {
+		margin: 0px 10px 10px 110px;
+	}
+}
+
+@media only screen and (min-width: 43.75em) {
+
+	body {
+		margin: 0px 10px 10px 165px;
+	}
+}
+
+@media only screen and (min-width: 50em) {
+
+	body {
+		margin: 0px 10px 10px 215px;
+	}
+	
+}
+
+
+#logo {
+	padding-bottom: 5px;
+}
+
+@media only screen and (min-width: 20em) {
+
+	#logo {
+		padding-top: 50px;
+	}
+}
+
+
+#logo img{
+	width: 40px;
+	height: auto;
+}
+
+@media only screen and (min-width: 20em) {
+
+	#logo img{
+		width: 62px;
+		height: auto;
+	}
+}
+
+@media only screen and (min-width: 25em) {
+
+	#logo img{
+		width: 72px;
+		height: auto;
+	}
+}
+
+
+h1 {
+	color:#01222A;
+	font-size: 20px;
+	margin-top: 0;
+}
+
+@media only screen and (min-width: 20em) {
+
+	h1 {
+		font-size: 22px;
+	}
+}
+
+@media only screen and (min-width: 25em) {
+
+	h1 {
+		font-size: 30px;
+	}
+}
+
+
+#about {
+	width: 200px;
+}
+
+@media only screen and (min-width: 20em) {
+
+	#about {
+		width: 260px;
+	}
+}
+
+@media only screen and (min-width: 25em) {
+
+	#about {
+		width: 340px;
+	}
+}
+
+@media only screen and (min-width: 50em) {
+
+	body {
+		padding-left: 22px;
+		padding-right: 22px;
+	}
+}
+
+
+p {
+	color: #000;
+	font-size: 12px;
+	line-height: 18px;
+	padding-top: 10px;
+}
+
+@media only screen and (min-width: 50em) {
+
+	p {
+		font-size: 15px;
+	}
+}
+
+
+li {
+	float: left;
+	padding: 40px 20px 40px 0;
+	list-style:none;
+}
+
+@media only screen and (min-width: 20em) {
+
+	li {
+		padding-top: 40px;
+	}
+}
+
+#social media {
+	list-style-type: none;
+}
+
+#social media img {
+	border: none;
+}
+
+footer {
+	float: left;
+	font-size: 12px;
+	color: #CCC;
+	padding-right: 20px;
+}
+
+@media only screen and (min-width: 20em) {
+
+	footer {
+		padding-top: 100px;
+	}
+}
+
+
